@@ -1627,7 +1627,7 @@
     
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3b679e+0,7db9e8+100&1+0,0.46+100 */
 /**/
-    background: linear-gradient(to top, rgba(59,103,158,1) 70%,rgba(125,185,232,0.8) 100%), url("../../images/aceaufgust.jpg") no-repeat;
+    background: linear-gradient(to top, rgba(59,103,158,1) 70%,rgba(125,185,232,0.8) 100%), url("../../images/IMG_0299.JPG") no-repeat;
     /*background-repeat: no-repeat;*/
 	}
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2662,7 +2662,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		/*text-align: center;*/
 	}
 
 	header.major {
