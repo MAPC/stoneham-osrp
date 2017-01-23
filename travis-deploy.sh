@@ -7,7 +7,7 @@ fi
 
 echo -e "\nRunning Travis Deployment"
 echo "Setting up Git Access"
-openssl aes-256-cbc -K $encrypted_6aefe86b6bfd_key -iv $encrypted_6aefe86b6bfd_iv -in deploy_key.enc -out deploy_key -d
+openssl aes-256-cbc -K $encrypted_8c1226698269_key -iv $encrypted_8c1226698269_iv -in deploy_key.enc -out deploy_key -d
 chmod 600 deploy_key
 
 # Add the SSH key so it's used on git commands
