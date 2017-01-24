@@ -1,0 +1,55 @@
+/*
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+/* Type */
+/* line 14, ie8.scss */
+body {
+  color: #ffffff; }
+
+/* Button */
+/* line 20, ie8.scss */
+.button {
+  position: relative;
+  border: solid 1px !important; }
+  /* line 24, ie8.scss */
+  .button.special {
+    border: none !important; }
+
+/* Icon */
+/* line 32, ie8.scss */
+.icon.major {
+  -ms-behavior: url("assets/js/ie/PIE.htc"); }
+  /* line 35, ie8.scss */
+  .icon.major:before {
+    font-size: 4em;
+    border: 0; }
+
+/* Spotlight */
+/* line 45, ie8.scss */
+.spotlight .image {
+  position: relative;
+  -ms-behavior: url("assets/js/ie/PIE.htc"); }
+  /* line 49, ie8.scss */
+  .spotlight .image img {
+    position: relative;
+    -ms-behavior: url("assets/js/ie/PIE.htc"); }
+
+/* Features */
+/* line 59, ie8.scss */
+.features li {
+  width: 29%; }
+
+/* Footer */
+/* line 67, ie8.scss */
+#footer > * {
+  width: 50%;
+  margin-left: 0; }
+
+/* Main */
+/* line 77, ie8.scss */
+#main > .main > .image.main:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  width: 100%; }
